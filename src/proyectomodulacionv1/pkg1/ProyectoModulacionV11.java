@@ -15,7 +15,9 @@ public class ProyectoModulacionV11 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+         pantallaInicial objpantalla = new pantallaInicial();
+    
+    objpantalla.setVisible(true);
     }
     
 }
